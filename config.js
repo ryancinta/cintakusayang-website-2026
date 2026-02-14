@@ -14,7 +14,7 @@ const CONFIG = {
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
+        hearts: ['🙂‍↔️', '😍', '🥰', '💛', '💛'],  // Heart emojis
         bears: ['🧸', '🐻']                       // Cute bear emojis
     },
 
@@ -22,10 +22,10 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you like me?",                                    // First interaction
-            yesBtn: "Yes",                                             // Text for "Yes" button
-            noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            text: "Kamu sayang ryannn?",                                    // First interaction
+            yesBtn: "Iya",                                             // Text for "Yes" button
+            noBtn: "Ndak sayang",                                               // Text for "No" button
+            secretAnswer: "sayanggg bangettt💛"           // Secret hover message
         },
         second: {
             text: "How much do you love me?",                          // For the love meter
