@@ -28,14 +28,15 @@ const CONFIG = {
             secretAnswer: "sayanggg bangettt💛"           // Secret hover message
         },
         second: {
-            text: "How much do you love me?",                          // For the love meter
-            startText: "This much!",                                   // Text before the percentage
-            nextBtn: "Next ❤️"                                         // Text for the next button
+            text: "cebelapa sayanggg ciii?",                          // For the love meter
+            startText: "SE LANGIT DAN BUMII SAYABGKUUU",                                   // Text before the percentage
+            nextBtn: "Next 💛"                                         // Text for the next button
         },
-        third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
-            yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
+        
+        : {
+            text: "Sayanggg sama ryan terus yaaa 💛😞", // The big question!
+            yesBtn: "Iya sayangg!",                                             // Text for "Yes" button
+            noBtn: "Nda mauuu"                                                 // Text for "No" button
         }
     },
 
